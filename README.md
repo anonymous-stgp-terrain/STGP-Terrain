@@ -191,13 +191,13 @@ Tables 2 and 3 use the **same fitted models** but evaluate predictions on **two 
 
 | Method | Runtime |
 |--------|---------|
-| Binning & TwinGP | 12 minutes |
-| Binning-hetGP |  |
+| Binning & TwinGP | 28 minutes |
+| Binning-hetGP | 56 minutes |
 | Multi-layer NN | 3 minutes |
-| Bayesian NN | 45 minutes |
+| Bayesian NN | 96 minutes |
 | XGBoost | 1 minute |
 | STGP (proposed) | 6 minutes |
-| **Total** | **~70 minutes** |
+| **Total** | **~190 minutes** |
 
 Runtimes were measured on a single workstation. Results may vary depending on hardware.
 
