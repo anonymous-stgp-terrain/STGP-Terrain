@@ -80,6 +80,7 @@ STGP-Terrain-Aware-Power-Curve/
 ├── run_table4.bat          # Windows convenience wrapper
 │
 ├── code/
+│   ├── supplement
 │   ├── Figures
 │      ├── fig_4.R
 │      ├── fig_5.R
